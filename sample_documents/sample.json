@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Python Programming",
+    "content": "Python is a high-level programming language known for its simplicity and readability.",
+    "topics": [
+      "programming",
+      "python",
+      "software development"
+    ]
+  },
+  {
+    "title": "Data Science",
+    "content": "Data science combines statistics, programming, and domain expertise to extract insights from data.",
+    "topics": [
+      "data science",
+      "statistics",
+      "analytics"
+    ]
+  },
+  {
+    "title": "Web Development",
+    "content": "Web development involves creating websites and web applications using various technologies.",
+    "topics": [
+      "web development",
+      "html",
+      "css",
+      "javascript"
+    ]
+  }
+]
